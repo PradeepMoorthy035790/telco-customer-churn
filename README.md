@@ -129,7 +129,23 @@ SHAP (SHapley Additive exPlanations) values computed for every prediction, enabl
 - Business-actionable insight delivery
 
 ---
+## Key Visualisations
 
+### Churn Overview
+![Churn Overview](outputs/figures/02_churn_overview.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](outputs/figures/03_tenure_churn.png)
+
+### Contract Type vs Churn
+![Contract Churn](outputs/figures/04_contract_churn.png)
+
+### Feature Correlation
+![Correlation](outputs/figures/06_correlation_heatmap.png)
+
+### SHAP Explainability
+![SHAP](outputs/figures/09_shap_analysis.png)
+```
 ## Business Recommendations
 
 Based on the model findings:
