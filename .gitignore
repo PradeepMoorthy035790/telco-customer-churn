@@ -1,0 +1,15 @@
+# Data files
+data/
+*.csv
+
+# Model files
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
