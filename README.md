@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+## Churn Prediction
 ### End-to-end Data Science Project | Classification | Explainable AI
 
 ---
